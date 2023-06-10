@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/dept-net/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/dept-net.dir/main.cpp.o -c /home/denis/vfb-net/dept-net/main.cpp",
+  "file": "/home/denis/vfb-net/dept-net/main.cpp"
+}
+]
